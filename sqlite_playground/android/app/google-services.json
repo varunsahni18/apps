@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843657837554",
+    "project_id": "playsqlite",
+    "storage_bucket": "playsqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843657837554:android:b6e1c23e540fd55074c96b",
+        "android_client_info": {
+          "package_name": "com.example.sqlite_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843657837554-dh395g872906qqansu6qm50b509curlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sqlite_playground",
+            "certificate_hash": "aee963be130951829d03620dfc538899b4668048"
+          }
+        },
+        {
+          "client_id": "843657837554-982keu6to2i42imu4tc9eo03r54ac51m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANutNjGGLle_287C92dcYIYDThFZTBxWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843657837554-982keu6to2i42imu4tc9eo03r54ac51m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+On disposing the email and password text controller and you go back to the initial page it gives an error that textediting controller has been disposed
+and it can't be used anylonger.
+
+possible solution : we can remove the going back 
+
+
+add media query.
+
+to return specific map insted of the whole list
